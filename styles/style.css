@@ -17,11 +17,12 @@ body {
     font-family: var(--fonte-principal);
     font-size: 16px;
     font-weight: 400;
+
 }
 
 
 .principal {
-    background-image: url(../Imagens/Background.png);
+    background-image: url(../imagens/Background.png);
     background-repeat: no-repeat;
     background-size: contain;
     align-items: center;
@@ -157,6 +158,4 @@ body {
     background-color: var(--botao-azul-efeito);
     color: var(--cor-de-fundo);
 }
-
-
 
